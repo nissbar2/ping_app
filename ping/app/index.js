@@ -11,7 +11,6 @@ const SignOutButton = () => {
         </View>
     );
 };
-
 export default function Home() {
     return (
         <SafeAreaView style={styles.container}>
