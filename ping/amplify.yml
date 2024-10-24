@@ -7,9 +7,9 @@ frontend:
         - npm install
     build:
       commands:
-        - npm run build
+        - expo run:ios
   artifacts:
-    baseDirectory: web-build
+    baseDirectory: dist
     files:
       - '**/*'
   cache:

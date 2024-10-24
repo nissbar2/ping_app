@@ -9,7 +9,6 @@
     "web": "expo start --web",
     "build": "expo export:web"
   },
-
   "dependencies": {
     "@aws-amplify/react-native": "^1.1.6",
     "@aws-amplify/ui-react-native": "^2.2.16",
@@ -17,8 +16,8 @@
     "@react-native-community/netinfo": "^11.4.1",
     "aws-amplify": "^6.6.6",
     "expo": "^49.0.0",
-    "expo-status-bar": "~1.12.1",
     "expo-router": "^2.0.0",
+    "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.5",
     "react-native-get-random-values": "^1.11.0",
